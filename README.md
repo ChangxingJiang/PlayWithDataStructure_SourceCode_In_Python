@@ -6,7 +6,7 @@
 >
 > 时间：2020.07.12
 
-## LinkedList 链表 (第3章 - 第2部分)
+## LinkedList  链表  (第3章 - 第2部分)
 
 SinglyLinkedNode 单链表结点
 
@@ -20,3 +20,10 @@ DoublyLinkedOperate 双链表的基本操作：插入、删除、整表创建
 
 DoublyLinkedList 管理双链表的基本类：插入、删除
 
+## Stack  栈  (第4章 - 第1部分)
+
+Stack 栈的结构定义
+
+ArrayStack 顺序存储结构的栈（Python列表存储）
+
+LinkedStack 链式存储结构的栈（单链表存储）
